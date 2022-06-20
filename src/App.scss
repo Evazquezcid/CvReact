@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Molengo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&family=Molengo&family=Montserrat:wght@100&display=swap');
+
+
+*{
+    text-decoration: none;
+    color: black;
+    font-family:'Molengo', sans-serif;  
+  
+    
+    
+   
+}
+
+a {
+    text-decoration: none;
+}
+
+
+    .boton1 { 
+      
+       width: 30%;
+       height: 30%;
+       display: inline-block;
+       margin-left: 35%;
+       margin-top: 5%;
+       margin-right: 5%;
+       background-color: #96eaed;
+       border-radius: 10%;
+       font-size: 1.2rem;
+       position: relative;
+       cursor:copy;
+
+
+    }
+
+    body {
+      
+       
+        background-image: url("https://www.transparenttextures.com/patterns/arches.png");
+
+        
+    }
