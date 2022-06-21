@@ -13,6 +13,7 @@ const Educacion = ({educacion}) => {
               <p className="nombre">✏️{item.nombre}</p>
               <p>{item.fecha}</p>
               <p>{item.donde}</p>
+              {/* <img src={item.imagen} alt="" /> */}
             </div>
           );
         })}

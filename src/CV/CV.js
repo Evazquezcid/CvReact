@@ -5,7 +5,7 @@ export const CV ={
         ciudad:"Madrid",
         email:"esthervazquezcid@gmail.com",
         telefono:"888-83-83-83",
-        foto:"../../assets/fotocv.jpeg",
+        foto:"../../assets/foto2.jpg",
         gitHub:"https://github.com/Evazquezcid",
         linkedin:"https://www.linkedin.com/in/esthervazquezcid/",
          
@@ -13,7 +13,7 @@ export const CV ={
 
       about:{
                 
-              info: "Me encanta la tecnologia, crear e ir más allá. Una de mis pasiones es el mundo de las Zapatillas 👟. Disfruto pasando el rato escalando 🧗‍♀️ y me encanta el mar. Estoy deseando comenzar mi nueva etapa de Full Stack Dev,seguir aprendiendo y creciendo para poder dar lo mejor de mi "
+              info: "Una de mis pasiones siempre ha sido la tecnología ,vivirla desde un sitio tan cercano me ha traido aquí, a disfrutarla de otra manera. Siempre me ha gustado crear, dibujar ,inventar... Me encanta el mundo de las Zapatillas ,me gusta cualquier cosa que tenga que ver con ellas y seguir de cerca los lanzamientos, es muy divertido ☺️. Disfruto pasando el rato escalando 🧗‍♀️ para sincronizar cuerpo y mente, aun que lo que más me relaja del mundo es ver el mar. Estoy deseando comenzar mi nueva etapa de Full Stack Dev, seguir aprendiendo y creciendo para poder dar lo mejor de mí " 
             },
 
         educacion: [
@@ -27,6 +27,7 @@ export const CV ={
                 nombre:"Bootcamp FullStack",
                 donde: "Upgrade Hub",
                 fecha: "2022",
+                imagenes: "../../assets/js.png"
             },
         ],
 

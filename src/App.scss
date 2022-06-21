@@ -20,19 +20,28 @@ a {
 
     .boton1 { 
       
-       width: 30%;
+       width: 20%;
        height: 30%;
        display: inline-block;
-       margin-left: 35%;
-       margin-top: 5%;
+       margin-left: 41%;
+       margin-top: 2%;
        margin-right: 5%;
        background-color: #96eaed;
-       border-radius: 10%;
+       border-radius: 30px;
        font-size: 1.2rem;
        position: relative;
        cursor:copy;
+       border-color: #040404;
+      
+  
+ 
 
 
+    }
+
+    .boton1:hover{
+        background-color: black;
+        color: white;
     }
 
     body {
