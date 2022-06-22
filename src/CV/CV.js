@@ -5,7 +5,7 @@ export const CV ={
         ciudad:"Madrid",
         email:"esthervazquezcid@gmail.com",
         telefono:"888-83-83-83",
-        foto:"../../assets/foto2.jpg",
+        foto:"../../assets/fotocv.jpeg",
         gitHub:"https://github.com/Evazquezcid",
         linkedin:"https://www.linkedin.com/in/esthervazquezcid/",
          
